@@ -2,4 +2,4 @@
 
 
  #### Used adobe indesign to make a safety document
-![safety](safetydocument.JPG)
+![safety](safety document.JPG)
