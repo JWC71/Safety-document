@@ -1,5 +1,5 @@
 # Safety-document
 
 
- #### Falling off the skateboard can cause self harm.
-![doucment](fallingoff.jpeg)
+ #### Used adobe indesign to make a safety document
+![doucment](revised safety docuemnt 2)
